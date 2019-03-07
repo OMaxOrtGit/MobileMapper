@@ -289,7 +289,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.d214.jhhs.622299.DDDT.MobileMapper;
+				PRODUCT_BUNDLE_IDENTIFIER = org.d214.jhhs.622299.DDDT.MobileMapper2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -307,7 +307,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = org.d214.jhhs.622299.DDDT.MobileMapper;
+				PRODUCT_BUNDLE_IDENTIFIER = org.d214.jhhs.622299.DDDT.MobileMapper2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
